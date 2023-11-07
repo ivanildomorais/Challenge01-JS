@@ -1,2 +1,2 @@
 
-Atividade 01 de programação JavaScript desenvolvod em sala de aula Centro Universitário SENAC.
+Atividade 01 de programação JavaScript desenvolvido em sala de aula Centro Universitário SENAC.
