@@ -1,2 +1,2 @@
-# Challenge01-JS
-Desafio 01 de programação JavaScript passado pela professor Kaian Novais, de Programação Web, no Centro Universitário SENAC.
+
+Atividade 01 de programação JavaScript deenvolvod em sala de aula Centro Universitário SENAC.
